@@ -16,7 +16,7 @@ pre_trained vgg16 model can be accessed at the Keras Pretrained Model section on
 - `CNN_withoutaugmentation.ipynb` loads the ASL dataset, create a CNN model, then it train, test, and save the model.
 - `VGG16_ASL_WithFlip.ipynb` utilize ASL dataset from Kaggle, run data augmentation, and separate images into training and testing folders, create a VGG16 model, then it train, test, and save the model.
 - `VGG16_ASL_WithoutFlip.ipynb` utilize ASL dataset from Kaggle, and separate images into training and testing folders, create a VGG16 model, then it train, test, and save the model.
-- `VGG16BothDatasetWithFlip.ipynb`  utilize ASL and SLGI dataset from Kaggle, run data augmentation, and separate images into training and testing folders, create a VGG16 model, then it train, test, and save the model.
+- `VGG16BothDatasetWithFlip.ipynb`  utilize ASL and SLGI dataset from Kaggle, run data augmentation, and separate images into training and testing folders, create a VGG16 model, then it train, test, and save the model, and plot the confusion matrix.
 - `VGG16BothDatasetWithoutFlip.ipynb`  utilize ASL and SLGI dataset from Kaggle, and separate images into training and testing folders, create a VGG16 model, then it train, test, and save the model.
 - `ASL_ResNet.ipynb` uses the ASL dataset with/without data augmentation, and create a ResNet50 model to train, test and save the model.
 
