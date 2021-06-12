@@ -8,6 +8,8 @@ ASL dataset: https://www.kaggle.com/ahmedkhanak1995/cnn-on-sign-language-gesture
 
 SLGI dataset: https://www.kaggle.com/paultimothymooney/interpret-sign-language-with-deep-learning
 
+pre_trained vgg16 model can be accessed at the Keras Pretrained Model section on the link: https://www.kaggle.com/paultimothymooney/interpret-sign-language-with-deep-learning/data
+
 ### Here is a brief introduction on each notebook:
 
 - `CNN_withaugmentation.ipynb` loads the ASL dataset, run data augmentation, create a CNN model, then it train, test, and save the model.
